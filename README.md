@@ -1,2 +1,0 @@
-# tamim.py
-im student
